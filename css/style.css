@@ -1,0 +1,23 @@
+body {
+    font-family: "forma-djr-micro", sans-serif;
+    background-color: #D6FFCC;
+    color: #802E1D;
+}
+h1, h2, h3, h4, h5{
+    font-family: "forma-djr-micro", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+    color: black;
+}
+section {   
+    width: 80%;
+    margin: 40px auto;
+}
+article {
+    margin-top: 40px;
+    margin-bottom: 40%px ;
+}
